@@ -5,7 +5,7 @@ Outro objetivo é aprender a fazer atividades mais complexas na linguagem.
 ## Como funciona
 Cada projeto é armazenado em um repositório separado no GitHub, onde é possível ver o código-fonte, documentação e detalhes sobre o processo de criação. Os projetos foram desenvolvidos em um período de sete dias consecutivos, com o objetivo de praticar e aprimorar habilidades em Java.
 
-## Projetos
+# Projetos
 Aqui está uma lista dos sete dias e o que foi desenvolvido (ainda incompleto):
 
 ## Dia 1:
