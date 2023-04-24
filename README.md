@@ -5,7 +5,7 @@ Este é um projeto composto por uma série de projetos desenvolvidos em Java dur
 Cada projeto é armazenado em um repositório separado no GitHub, onde é possível ver o código-fonte, documentação e detalhes sobre o processo de criação. Os projetos foram desenvolvidos em um período de sete dias consecutivos, com o objetivo de praticar e aprimorar habilidades em Java.
 
 # Projetos
-Aqui está uma lista dos sete dias e o que foi desenvolvido (ainda em criação...):
+Aqui está uma lista dos sete dias e o que foi desenvolvido (ainda em criação...) :
 
 ## Dia 1:
 
